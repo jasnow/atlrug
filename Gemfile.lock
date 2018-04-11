@@ -499,7 +499,7 @@ GEM
       pusher-client (~> 0.4)
       typhoeus (~> 0.6, >= 0.6.8)
     tty-which (0.3.0)
-    turbolinks (5.1.0)
+    turbolinks (5.1.1)
       turbolinks-source (~> 5.1)
     turbolinks-source (5.1.0)
     typhoeus (0.8.0)
