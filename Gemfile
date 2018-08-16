@@ -80,6 +80,8 @@ group :development, :test do
 
   gem 'rails4_upgrade'
 
+  gem 'rubocop-rspec'
+
   gem 'travis'
 
   gem 'simplecov', require: false
