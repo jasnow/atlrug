@@ -13,8 +13,6 @@ gem 'uglifier'
 gem 'execjs'
 gem 'therubyracer', platforms: :ruby
 gem 'bootstrap-sass'
-gem 'haml', '4.1.0.beta.1' # LOCKED DOWN 12/28/2018
-gem 'html2haml'
 gem 'haml-rails'
 gem 'jquery-rails'
 gem 'overcommit'
