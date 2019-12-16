@@ -374,7 +374,7 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.7)
-    rubocop-rspec (1.37.0)
+    rubocop-rspec (1.37.1)
       rubocop (>= 0.68.1)
     ruby-progressbar (1.10.1)
     ruby_gntp (0.3.4)
@@ -540,4 +540,4 @@ RUBY VERSION
    ruby 2.7.0p-1
 
 BUNDLED WITH
-   2.1.0.pre.3
+   2.1.0
