@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/octokit/octokit.rb
-  revision: a0ecb99860238cb3c3e79d851440f991f02116eb
+  revision: e307d47a626caa854a7fe7c30d732ad4189a2d0c
   specs:
     octokit (4.14.0)
       faraday (>= 0.9)
@@ -463,7 +463,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.6)
     unicode-display_width (1.6.0)
-    unicorn (5.5.1)
+    unicorn (5.5.2)
       kgio (~> 2.6)
       raindrops (~> 0.7)
     virtus (1.0.5)
@@ -546,4 +546,4 @@ RUBY VERSION
    ruby 2.7.0p-1
 
 BUNDLED WITH
-   2.1.0
+   2.1.2
